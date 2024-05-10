@@ -1,0 +1,4 @@
+googletrans==3.0.0
+langchain==0.1.19
+langdetect==1.0.9
+streamlit_chat==0.1.1
